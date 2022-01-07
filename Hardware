@@ -1,0 +1,8 @@
+Hardware Used
+
+ESP32 CAM (Usb-TTL To Program Esp32 Cam)
+R307 Fingerprint Module
+Arduino Uno
+16*2 LCD With I2C module interface
+Servo Motor
+Switches To Enroll Finger and Verify Finger For Authentication
